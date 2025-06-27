@@ -19,3 +19,6 @@ This study uses **Sentinel-2 satellite imagery, remote sensing techniques, and m
 ## Results  
 - Accurate riverbank change detection with **high-performance ML models**.  
 - Identification of **high-risk erosion zones** for proactive intervention.  
+
+
+# Paper is accepted in [ACDSA2025](https://acdsa.org/home)
